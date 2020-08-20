@@ -1,5 +1,5 @@
 ---
 title: "Your blog post title"
-date: YYYY-MM-DD
+date: 2000-11-11
 ---
 Hey I am Yash Srivastava
